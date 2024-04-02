@@ -47,3 +47,11 @@ Fallahi, Matin, Thorsten Strufe, and Patricia Arias-Cabarcos. "BrainNet: Improvi
 - P300:ERP CORE -> D_1
 - N400:ERP CORE -> D_2
 - P300:bi2015a -> D_3 
+
+
+
+
+# Data
+
+https://i62nextcloud.tm.kit.edu/index.php/s/fj7mrk8SFHi4msQ
+
